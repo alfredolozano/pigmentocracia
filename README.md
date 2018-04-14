@@ -14,7 +14,7 @@ To use the libray you have to install:
 sudo pip install numpy
 ```
 
-- OpenCV 2.x (not compatible with OpenCV >= 3.x) [[link]](http://opencv.org/)
+- OpenCV 2.x (not compatible with OpenCV >= 3.x) [[link]](https://opencv.org/releases.html)
 
 ```shell
 sudo apt-get install libopencv-dev python-opencv
